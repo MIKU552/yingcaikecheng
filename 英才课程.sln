@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1000以内素数", "1000以
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "辗转相除法", "辗转相除法\辗转相除法.vcxproj", "{4636C6FD-DB1A-4BF5-8361-BC6417B2CD63}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "水仙花数", "水仙花数\水仙花数.vcxproj", "{F5F4A55B-1722-4F8F-9C36-9A31AED664A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{4636C6FD-DB1A-4BF5-8361-BC6417B2CD63}.Release|x64.Build.0 = Release|x64
 		{4636C6FD-DB1A-4BF5-8361-BC6417B2CD63}.Release|x86.ActiveCfg = Release|Win32
 		{4636C6FD-DB1A-4BF5-8361-BC6417B2CD63}.Release|x86.Build.0 = Release|Win32
+		{F5F4A55B-1722-4F8F-9C36-9A31AED664A9}.Debug|x64.ActiveCfg = Debug|x64
+		{F5F4A55B-1722-4F8F-9C36-9A31AED664A9}.Debug|x64.Build.0 = Debug|x64
+		{F5F4A55B-1722-4F8F-9C36-9A31AED664A9}.Debug|x86.ActiveCfg = Debug|Win32
+		{F5F4A55B-1722-4F8F-9C36-9A31AED664A9}.Debug|x86.Build.0 = Debug|Win32
+		{F5F4A55B-1722-4F8F-9C36-9A31AED664A9}.Release|x64.ActiveCfg = Release|x64
+		{F5F4A55B-1722-4F8F-9C36-9A31AED664A9}.Release|x64.Build.0 = Release|x64
+		{F5F4A55B-1722-4F8F-9C36-9A31AED664A9}.Release|x86.ActiveCfg = Release|Win32
+		{F5F4A55B-1722-4F8F-9C36-9A31AED664A9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
