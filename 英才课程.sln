@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "分糖果", "分糖果\分�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "组合数", "组合数\组合数.vcxproj", "{43B192FD-4039-4D8F-BB9E-C813BCA09A11}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "选择排序", "选择排序\选择排序.vcxproj", "{E97B4944-4A8D-42E0-BD30-15F90F1C6824}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{43B192FD-4039-4D8F-BB9E-C813BCA09A11}.Release|x64.Build.0 = Release|x64
 		{43B192FD-4039-4D8F-BB9E-C813BCA09A11}.Release|x86.ActiveCfg = Release|Win32
 		{43B192FD-4039-4D8F-BB9E-C813BCA09A11}.Release|x86.Build.0 = Release|Win32
+		{E97B4944-4A8D-42E0-BD30-15F90F1C6824}.Debug|x64.ActiveCfg = Debug|x64
+		{E97B4944-4A8D-42E0-BD30-15F90F1C6824}.Debug|x64.Build.0 = Debug|x64
+		{E97B4944-4A8D-42E0-BD30-15F90F1C6824}.Debug|x86.ActiveCfg = Debug|Win32
+		{E97B4944-4A8D-42E0-BD30-15F90F1C6824}.Debug|x86.Build.0 = Debug|Win32
+		{E97B4944-4A8D-42E0-BD30-15F90F1C6824}.Release|x64.ActiveCfg = Release|x64
+		{E97B4944-4A8D-42E0-BD30-15F90F1C6824}.Release|x64.Build.0 = Release|x64
+		{E97B4944-4A8D-42E0-BD30-15F90F1C6824}.Release|x86.ActiveCfg = Release|Win32
+		{E97B4944-4A8D-42E0-BD30-15F90F1C6824}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
