@@ -40,8 +40,8 @@ void maxmin(int* pbuf, int len)
 
 int main()
 {
-    int len = 11;
-    int* a, i, m, n, * j;
+    int len;
+    int *a, i, m, n, * j;
     printf("please input data num:\n");
     scanf_s("%d", &len);
     a = (int*)malloc(len * sizeof(int));
